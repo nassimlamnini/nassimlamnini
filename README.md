@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;+I'm+Nassim+Lamnini;+" />
 </h1>
 
-<h3 align="center">Data Science & AI enthusiast</h3>
+<h3 align="center">AI Engineer</h3>
 
 <div align="center"> 
     <p align="center">How to reach me:</p>
